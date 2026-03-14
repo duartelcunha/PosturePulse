@@ -68,4 +68,4 @@ MIT
 
 ---
 
-*Built by [@duartelcunha02](https://github.com/duartelcunha02)*
+*Built by [@duartelcunha](https://github.com/duartelcunha)*
